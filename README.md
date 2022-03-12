@@ -4,7 +4,7 @@
 - 👀 I’m interested in IA🤖, ML🖥️, DS📉
 - 🌱 I’m currently learning Python🐍 and C#️⃣
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me medranoq@outlook.com 📧
 
 <!---
 medranoq/medranoq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
